@@ -5,6 +5,5 @@ What file do i install?
 | Operating system |   | Script                         |
 |-----------------|---|--------------------------------|
 | For Windows     |   | ```E``` |
-| For Linux       |   | ```E```    |
-| MacOS           |   | ```E```    |
+| For MacOS & Linux   |   | ```E```    |
 <br>
